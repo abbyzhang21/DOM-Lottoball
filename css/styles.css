@@ -1,2 +1,38 @@
-
-
+body {
+	background-color: #cccccc;
+	background-image: radial-gradient( #E5E4D7, #FFCF79, #92CD00, #2C6700);
+	background-repeat: no-repeat;
+	height:1000px;
+	font-family: 'Lato', sans-serif;
+	color:#2C6700;
+}
+#intro {
+	display: inline-block;
+}
+#rule {
+	float: right;
+	width: 300px;
+}
+#display {
+	font-size: 100px;
+	color:#2C6700;
+	clear:right;
+}
+button {
+	background-color: #E5E4D7; 
+    color:  #2C6700; 
+    border-radius: 12px;
+	width: 200px;
+	height:100px;
+	font-size: 40px;
+	-webkit-transition-duration: 0.4s;
+}
+button:hover {
+	background-color: #2C6700;
+    color: #92CD00;
+}
+#container {
+	text-align: center;
+	margin-top: 300px;
+	position: 
+}
